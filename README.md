@@ -1,2 +1,0 @@
-# TinyStep
-Created with CodeSandbox
